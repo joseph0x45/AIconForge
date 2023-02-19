@@ -4,9 +4,11 @@
             AIconForge
         </h1>
         <div>
-            <button class=" text-white bg-gradient-to-l from-green-300 via-blue-500 to-purple-600 font-bold w-28 rounded-3xl p-2" >
-                Login
-            </button>
+            <a href="#auth">
+                <h1 class=" text-transparent underline decoration-wavy decoration-white bg-clip-text bg-gradient-to-l from-green-300 via-blue-500 to-purple-600 font-bold" >
+                    Get Started
+                </h1>
+            </a>
         </div>
     </header>
     <div class=" text-2xl font-extrabold text-center text-white" >
