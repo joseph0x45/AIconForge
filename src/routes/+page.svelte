@@ -8,6 +8,8 @@
         </a>
     </header>
     <div class=" text-2xl font-extrabold text-center text-white pt-28" >
-        <h1>Boost your brand with custom unique icons created by AI</h1>
+        <h1 class="bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-green-300 via-blue-500 to-purple-600 bg-clip-text texttr"  >
+            Boost your brand with custom unique icons created by AI
+        </h1>
     </div>
 </main>
